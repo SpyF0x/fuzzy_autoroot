@@ -1,4 +1,6 @@
-# fuzzy_autoroot - A simple multithreaded Linux root password Bruteforcer
+# fuzzy_autoroot
+
+### A simple multithreaded Linux root password Bruteforcer
 
 fuzzy_autoroot is a Multithreaded UNIX-Like tool to brute-force local root through su using sucrack binary. You will need to compile your own sucrack binary and change the SUCRACK_NAME in VARIABLES.
 
